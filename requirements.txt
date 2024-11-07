@@ -1,0 +1,7 @@
+tweepy
+requests
+pymupdf
+scikit-learn
+beautifulsoup4
+selenium
+webdriver-manager

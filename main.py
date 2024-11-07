@@ -29,7 +29,7 @@ def recommend_jobs(pdf_path):
     )
     
     print("Top Machine Learning Remote Job Recommendations:\n")
-    for score, job in ranked_jobs[:5]:  
+    for score, job in ranked_jobs[:10]:  
         print(f"Job Title: {job['title']}")
         print(f"Job URL: {job['url']}")
         print(f"Similarity Score: {score:.4f}\n")

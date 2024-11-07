@@ -6,7 +6,7 @@ def search_ml_jobs_twitter():
     client = tweepy.Client(bearer_token=config.BEARER_TOKEN)
     response = client.search_recent_tweets(
         query=config.SEARCH_QUERY, 
-        max_results=config.MAX_TWEET_RESULTS,
+        max_results=10,
         tweet_fields=["author_id", "created_at", "text"]
     )
     jobs = []

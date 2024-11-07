@@ -1,6 +1,5 @@
 from utils.twitter_search import search_ml_jobs_twitter
 from utils.hackernews_scraper import fetch_remote_hackernews_jobs
-from utils.wellfound_scraper import fetch_remote_wellfound_jobs
 from utils.pdf_extractor import extract_text_from_pdf
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity

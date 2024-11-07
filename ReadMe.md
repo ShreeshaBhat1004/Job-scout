@@ -157,7 +157,7 @@ Similarity Score: 0.89
 
 ## 💬 Contact
 
-For any questions or feedback, please reach out via [email](srbhat1004@gmail.com), contributions are welcome.
+For any questions or feedback, please reach out via email - srbhat1004@gmail.com, contributions are welcome.
 
 **Happy Job Hunting! 🚀**
 

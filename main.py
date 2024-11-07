@@ -18,7 +18,7 @@ def recommend_jobs(pdf_path):
     hackernews_jobs = fetch_remote_hackernews_jobs()
     twitter_jobs = search_ml_jobs_twitter()
     
-    all_jobs = hackernews_jobs + wellfound_jobs + twitter_jobs
+    all_jobs = hackernews_jobs + twitter_jobs
     similarities = compute_similarity(profile_text, all_jobs)
     
     ranked_jobs = sorted(

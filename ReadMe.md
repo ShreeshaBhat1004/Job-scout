@@ -30,7 +30,7 @@
 
 1. **Clone the repository**:
    ```powershell
-   git clone https://github.com/yourusername/Job-Scout.git
+   git clone https://github.com/ShreeshaBhat1004/Job-Scout.git
    cd Job-Scout
    ```
 

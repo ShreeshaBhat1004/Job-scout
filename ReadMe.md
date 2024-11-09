@@ -123,7 +123,7 @@ This customization allows you to filter Twitter job results to focus on internsh
 
 ```
 Job-Scout/
-├── README.md                # Project documentatio
+├── README.md                # Project documentation
 ├── requirements.txt         # List of dependencies
 ├── config.py                # Configuration for API keys and tokens
 ├── main.py                  # Main script to run the job search and matching process

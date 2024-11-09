@@ -89,7 +89,7 @@ MAX_TWEET_RESULTS = 10  # Number of tweets to fetch
    ```
 
 3. **View Recommendations**:
-   - The script will display the top-ranked Machine Learning remote jobs based on how well they match your resume.
+   - The script will display the top-ranked Machine Learning remote jobs (default) based on how well they match your resume.
 
 ---
 

@@ -1,6 +1,6 @@
 # Job-Scout
 
-![Job-Scout](https://img.shields.io/badge/remote-jobs-brightgreen) ![ML](https://img.shields.io/badge/machine-learning-blue) ![Stars](https://img.shields.io/github/stars/shreeshabhat1004/Job-Scout)
+![Job-Scout](https://img.shields.io/badge/remote-jobs-brightgreen) ![Stars](https://img.shields.io/github/stars/shreeshabhat1004/Job-Scout)
 
 **Job-Scout** is a Python-based tool that aggregates remote job postings in Machine Learning and Data Science from multiple sources, including Hacker News and Twitter (X). The tool takes your resume in PDF format, analyzes it, and ranks job listings based on how well they match your skills and experience. With easy customization, you can also set it up to search for internships or specific job roles!
 
